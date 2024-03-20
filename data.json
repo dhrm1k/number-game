@@ -1,0 +1,137 @@
+{
+  "The Basics": {
+    "1": "Age",
+    "2": "Gender",
+    "3": "Height",
+    "4": "Weight",
+    "5": "Where are you from?",
+    "6": "Zodiac sign? (If you know it)",
+    "7": "First name",
+    "8": "Last name",
+    "9": "Middle name",
+    "10": "Birthday",
+    "11": "Languages you speak"
+  },
+  "Hobbies/Interests": {
+    "12": "Favorite color",
+    "13": "Least favorite color",
+    "14": "Favorite food",
+    "15": "Favorite activity",
+    "16": "Favorite TV Show",
+    "17": "In your opinion, most overrated TV Show",
+    "18": "Most underrated TV Show",
+    "19": "Any sports you play",
+    "20": "Most overrated sport"
+  },
+  "Music and Games": {
+    "21": "Favorite song",
+    "22": "Favorite musical artist",
+    "23": "Favorite band",
+    "24": "Favorite solo artist",
+    "25": "Favorite music genre",
+    "26": "Least favorite music genre",
+    "27": "Favorite video game",
+    "28": "Favorite video game genre",
+    "29": "Favorite board game",
+    "30": "Favorite gaming YouTuber"
+  },
+  "Life/Experience": {
+    "31": "Do you currently have a job? What is it?",
+    "32": "Future career ambitions",
+    "33": "Do you ever plan on going to college?",
+    "34": "How many members are in your family?",
+    "35": "How many friends do you have?",
+    "36": "Do you have any pets?",
+    "37": "What is your dream vacation?",
+    "38": "Favorite memory",
+    "39": "Most embarrassing moment"
+  },
+  "Social Media": {
+    "40": "What social media apps do you use?",
+    "41": "What is your most used Social Media app?",
+    "42": "How many followers do you have on all your Social Media?",
+    "43": "How long do you spend on Social Media a day?",
+    "44": "Have you ever had an internet argument?",
+    "45": "Have you ever made any friends through Social Media?",
+    "46": "What was the last message you sent?",
+    "47": "Who do you follow?",
+    "48": "Who was the last person you followed/DMed?",
+    "49": "Do you follow any NSFW accounts/pages?",
+    "50": "Favorite person you follow"
+  },
+  "Personal Belongings": {
+    "51": "What is the most expensive item you own?",
+    "52": "What is your most prized possession",
+    "53": "Most embarrassing thing you own",
+    "54": "What is the weirdest thing you own",
+    "55": "Do you own anything popular",
+    "56": "Do you own anything considered 'rich'",
+    "57": "Most 'futuristic' thing you own",
+    "58": "What is the coolest thing you own",
+    "59": "What is the oldest thing you own",
+    "60": "What is the last thing you bought/received",
+    "61": "Do you have a stuffed animal",
+    "62": "What was your most prized possession as a little kid"
+  },
+  "Appearance": {
+    "63": "Hair style",
+    "64": "Short or long hair",
+    "65": "Hair color",
+    "66": "Body style/build",
+    "67": "Ethnicity",
+    "68": "Favorite outfit",
+    "69": "Nice smile",
+    "70": "Eye color",
+    "71": "Do you wear makeup",
+    "72": "Do wear boxers, briefs, or boxer-briefs",
+    "73": "Do you have any facial/body hair? Where"
+  },
+  "Relationships": {
+    "74": "Relationship status",
+    "75": "Do you have a crush",
+    "76": "Who is your celebrity crush",
+    "77": "Have you ever cheated on someone",
+    "78": "Have you ever been cheated on",
+    "79": "Ideal girlfriend/boyfriend",
+    "80": "What is your idea of a perfect date",
+    "81": "Have you ever asked someone out",
+    "82": "What do you hope for in a platonic relationship",
+    "83": "Do you/have you real-life/online dated"
+  },
+  "Sex and Sexuality": {
+    "84": "What is your sexuality",
+    "85": "How do you sleep: clothed, in underwear, or naked",
+    "86": "Have you ever seen anyone naked",
+    "87": "Have you ever had a same-sex experience",
+    "88": "Have you ever kissed anyone",
+    "89": "Have you ever sent a nude",
+    "90": "Have you ever sexted",
+    "91": "Have you ever slept with anyone",
+    "92": "Do you ever want to have sex",
+    "93": "Are you a virgin"
+  },
+  "Academics/School": {
+    "94": "What are your classes",
+    "95": "What grade are you in",
+    "96": "Favorite teacher",
+    "97": "Least favorite teacher",
+    "98": "How long is your school day",
+    "99": "Do you have any upcoming tests/exams/quizzes",
+    "100": "What was your last bad grade",
+    "101": "What was your last good grade",
+    "102": "Did you do your homework"
+  },
+  "Misc": {
+    "103": "Send me a selfie",
+    "104": "Do whatever I say (can't say no)",
+    "105": "Send me a DM",
+    "106": "Take an extra item and ask me any number",
+    "107": "Ask a question of your own not on this chart"
+  },
+  "Extra Misc": {
+    "108": "What was your first impression of me",
+    "109": "What do you think of me now",
+    "110": "Would you like to be friends",
+    "111": "How are you doing"
+  }
+}
